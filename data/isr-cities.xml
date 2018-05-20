@@ -1,2 +1,1301 @@
 <?xml version="1.0" encoding="ISO-8859-8"?>
-<IsraelCitiesWeatherForecastMorning><Originator><Organization>Israel Meteorological Service</Organization><Generator>Global Distribution of Meteorological Information</Generator></Originator><Identification><Title>Weather Forecast for Israel Cities (Morning)</Title><IssueDateTime>2017-12-06 04:30</IssueDateTime></Identification><Location><LocationMetaData><LocationId>520</LocationId><LocationNameEng>Elat</LocationNameEng><LocationNameHeb>אילת</LocationNameHeb><DisplayLat>29.55</DisplayLat><DisplayLon>34.9</DisplayLon><RemarksEng/><RemarksHeb/><Remarks/></LocationMetaData><LocationData><TimeUnitData><Date>2017-12-06</Date><Element><ElementName>Maximum relative humidity</ElementName><ElementValue>40</ElementValue></Element><Element><ElementName>Maximum temperature</ElementName><ElementValue>22</ElementValue></Element><Element><ElementName>Minimum relative humidity</ElementName><ElementValue>40</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>11</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1220</ElementValue></Element><Element><ElementName>Wind direction and speed</ElementName><ElementValue>045-315/20-30</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-07</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>20</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>10</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1360</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-08</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>23</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>10</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1330</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-09</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>24</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>11</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1330</ElementValue></Element></TimeUnitData></LocationData></Location><Location><LocationMetaData><LocationId>114</LocationId><LocationNameEng>Ashdod</LocationNameEng><LocationNameHeb>אשדוד</LocationNameHeb><DisplayLat>31.83</DisplayLat><DisplayLon>34.64</DisplayLon><RemarksEng/><RemarksHeb/><Remarks/></LocationMetaData><LocationData><TimeUnitData><Date>2017-12-06</Date><Element><ElementName>Maximum relative humidity</ElementName><ElementValue>70</ElementValue></Element><Element><ElementName>Maximum temperature</ElementName><ElementValue>18</ElementValue></Element><Element><ElementName>Minimum relative humidity</ElementName><ElementValue>70</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>14</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1110</ElementValue></Element><Element><ElementName>Wind direction and speed</ElementName><ElementValue>225-315/20-40</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-07</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>17</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>11</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1220</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-08</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>19</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>10</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1240</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-09</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>21</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>11</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1330</ElementValue></Element></TimeUnitData></LocationData></Location><Location><LocationMetaData><LocationId>513</LocationId><LocationNameEng>Beer Sheva</LocationNameEng><LocationNameHeb>באר שבע</LocationNameHeb><DisplayLat>31.25</DisplayLat><DisplayLon>34.8</DisplayLon><RemarksEng/><RemarksHeb/><Remarks/></LocationMetaData><LocationData><TimeUnitData><Date>2017-12-06</Date><Element><ElementName>Maximum relative humidity</ElementName><ElementValue>60</ElementValue></Element><Element><ElementName>Maximum temperature</ElementName><ElementValue>17</ElementValue></Element><Element><ElementName>Minimum relative humidity</ElementName><ElementValue>60</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>8</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1110</ElementValue></Element><Element><ElementName>Wind direction and speed</ElementName><ElementValue>225-315/25-45</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-07</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>16</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>4</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1220</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-08</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>19</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>3</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1240</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-09</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>21</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>6</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1330</ElementValue></Element></TimeUnitData></LocationData></Location><Location><LocationMetaData><LocationId>203</LocationId><LocationNameEng>Bet Shean</LocationNameEng><LocationNameHeb>בית שאן</LocationNameHeb><DisplayLat>32.45</DisplayLat><DisplayLon>35.5</DisplayLon><RemarksEng/><RemarksHeb/><Remarks/></LocationMetaData><LocationData><TimeUnitData><Date>2017-12-06</Date><Element><ElementName>Maximum relative humidity</ElementName><ElementValue>55</ElementValue></Element><Element><ElementName>Maximum temperature</ElementName><ElementValue>18</ElementValue></Element><Element><ElementName>Minimum relative humidity</ElementName><ElementValue>55</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>8</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1110</ElementValue></Element><Element><ElementName>Wind direction and speed</ElementName><ElementValue>225-315/20-35</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-07</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>18</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>5</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1220</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-08</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>19</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>4</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1240</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-09</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>21</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>8</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1330</ElementValue></Element></TimeUnitData></LocationData></Location><Location><LocationMetaData><LocationId>115</LocationId><LocationNameEng>Haifa</LocationNameEng><LocationNameHeb>חיפה</LocationNameHeb><DisplayLat>32.82</DisplayLat><DisplayLon>35</DisplayLon><RemarksEng/><RemarksHeb/><Remarks/></LocationMetaData><LocationData><TimeUnitData><Date>2017-12-06</Date><Element><ElementName>Maximum relative humidity</ElementName><ElementValue>70</ElementValue></Element><Element><ElementName>Maximum temperature</ElementName><ElementValue>17</ElementValue></Element><Element><ElementName>Minimum relative humidity</ElementName><ElementValue>70</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>11</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1100</ElementValue></Element><Element><ElementName>Wind direction and speed</ElementName><ElementValue>225-315/25-40</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-07</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>15</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>9</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1220</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-08</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>17</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>9</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1240</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-09</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>19</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>13</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1330</ElementValue></Element></TimeUnitData></LocationData></Location><Location><LocationMetaData><LocationId>202</LocationId><LocationNameEng>Tiberias</LocationNameEng><LocationNameHeb>טבריה</LocationNameHeb><DisplayLat>32.8</DisplayLat><DisplayLon>35.53</DisplayLon><RemarksEng/><RemarksHeb/><Remarks/></LocationMetaData><LocationData><TimeUnitData><Date>2017-12-06</Date><Element><ElementName>Maximum relative humidity</ElementName><ElementValue>55</ElementValue></Element><Element><ElementName>Maximum temperature</ElementName><ElementValue>19</ElementValue></Element><Element><ElementName>Minimum relative humidity</ElementName><ElementValue>55</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>12</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1110</ElementValue></Element><Element><ElementName>Wind direction and speed</ElementName><ElementValue>225-270/20-40</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-07</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>18</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>9</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1220</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-08</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>18</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>9</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1240</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-09</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>20</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>9</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1330</ElementValue></Element></TimeUnitData></LocationData></Location><Location><LocationMetaData><LocationId>510</LocationId><LocationNameEng>Jerusalem</LocationNameEng><LocationNameHeb>ירושלים</LocationNameHeb><DisplayLat>31.78</DisplayLat><DisplayLon>35.22</DisplayLon><RemarksEng/><RemarksHeb/><Remarks/></LocationMetaData><LocationData><TimeUnitData><Date>2017-12-06</Date><Element><ElementName>Maximum relative humidity</ElementName><ElementValue>60</ElementValue></Element><Element><ElementName>Maximum temperature</ElementName><ElementValue>12</ElementValue></Element><Element><ElementName>Minimum relative humidity</ElementName><ElementValue>60</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>8</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1110</ElementValue></Element><Element><ElementName>Wind direction and speed</ElementName><ElementValue>225-315/25-45</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-07</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>12</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>6</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1220</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-08</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>13</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>7</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1240</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-09</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>15</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>9</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1240</ElementValue></Element></TimeUnitData></LocationData></Location><Location><LocationMetaData><LocationId>204</LocationId><LocationNameEng>Lod</LocationNameEng><LocationNameHeb>לוד</LocationNameHeb><DisplayLat>31.85</DisplayLat><DisplayLon>34.9</DisplayLon><RemarksEng/><RemarksHeb/><Remarks/></LocationMetaData><LocationData><TimeUnitData><Date>2017-12-06</Date><Element><ElementName>Maximum relative humidity</ElementName><ElementValue>65</ElementValue></Element><Element><ElementName>Maximum temperature</ElementName><ElementValue>18</ElementValue></Element><Element><ElementName>Minimum relative humidity</ElementName><ElementValue>65</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>10</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1110</ElementValue></Element><Element><ElementName>Wind direction and speed</ElementName><ElementValue>225-315/20-40</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-07</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>17</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>8</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1220</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-08</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>19</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>8</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1240</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-09</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>21</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>10</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1330</ElementValue></Element></TimeUnitData></LocationData></Location><Location><LocationMetaData><LocationId>106</LocationId><LocationNameEng>Mizpe Ramon</LocationNameEng><LocationNameHeb>מצפה רמון</LocationNameHeb><DisplayLat>30.61</DisplayLat><DisplayLon>34.8</DisplayLon><RemarksEng/><RemarksHeb/><Remarks/></LocationMetaData><LocationData><TimeUnitData><Date>2017-12-06</Date><Element><ElementName>Maximum relative humidity</ElementName><ElementValue>60</ElementValue></Element><Element><ElementName>Maximum temperature</ElementName><ElementValue>14</ElementValue></Element><Element><ElementName>Minimum relative humidity</ElementName><ElementValue>60</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>6</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1220</ElementValue></Element><Element><ElementName>Wind direction and speed</ElementName><ElementValue>270-315/25-40</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-07</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>12</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>5</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1220</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-08</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>13</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>5</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1240</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-09</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>16</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>6</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1330</ElementValue></Element></TimeUnitData></LocationData></Location><Location><LocationMetaData><LocationId>207</LocationId><LocationNameEng>Nazareth</LocationNameEng><LocationNameHeb>נצרת</LocationNameHeb><DisplayLat>32.75</DisplayLat><DisplayLon>35.3</DisplayLon><RemarksEng/><RemarksHeb/><Remarks/></LocationMetaData><LocationData><TimeUnitData><Date>2017-12-06</Date><Element><ElementName>Maximum relative humidity</ElementName><ElementValue>75</ElementValue></Element><Element><ElementName>Maximum temperature</ElementName><ElementValue>15</ElementValue></Element><Element><ElementName>Minimum relative humidity</ElementName><ElementValue>75</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>8</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1100</ElementValue></Element><Element><ElementName>Wind direction and speed</ElementName><ElementValue>225-270/20-40</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-07</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>14</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>7</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1220</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-08</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>15</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>7</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1240</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-09</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>17</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>11</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1330</ElementValue></Element></TimeUnitData></LocationData></Location><Location><LocationMetaData><LocationId>105</LocationId><LocationNameEng>En Gedi</LocationNameEng><LocationNameHeb>עין גדי</LocationNameHeb><DisplayLat>31.42</DisplayLat><DisplayLon>35.35</DisplayLon><RemarksEng/><RemarksHeb/><Remarks/></LocationMetaData><LocationData><TimeUnitData><Date>2017-12-06</Date><Element><ElementName>Maximum relative humidity</ElementName><ElementValue>50</ElementValue></Element><Element><ElementName>Maximum temperature</ElementName><ElementValue>22</ElementValue></Element><Element><ElementName>Minimum relative humidity</ElementName><ElementValue>50</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>15</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1110</ElementValue></Element><Element><ElementName>Wind direction and speed</ElementName><ElementValue>225-270/15-30</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-07</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>21</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>13</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1220</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-08</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>22</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>14</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1240</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-09</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>24</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>16</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1330</ElementValue></Element></TimeUnitData></LocationData></Location><Location><LocationMetaData><LocationId>209</LocationId><LocationNameEng>Afula</LocationNameEng><LocationNameHeb>עפולה</LocationNameHeb><DisplayLat>32.52</DisplayLat><DisplayLon>35.25</DisplayLon><RemarksEng/><RemarksHeb/><Remarks/></LocationMetaData><LocationData><TimeUnitData><Date>2017-12-06</Date><Element><ElementName>Maximum relative humidity</ElementName><ElementValue>70</ElementValue></Element><Element><ElementName>Maximum temperature</ElementName><ElementValue>18</ElementValue></Element><Element><ElementName>Minimum relative humidity</ElementName><ElementValue>70</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>6</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1100</ElementValue></Element><Element><ElementName>Wind direction and speed</ElementName><ElementValue>225-315/20-40</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-07</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>17</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>3</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1220</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-08</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>18</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>2</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1240</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-09</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>20</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>6</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1330</ElementValue></Element></TimeUnitData></LocationData></Location><Location><LocationMetaData><LocationId>507</LocationId><LocationNameEng>Zefat</LocationNameEng><LocationNameHeb>צפת</LocationNameHeb><DisplayLat>33.05</DisplayLat><DisplayLon>35.44</DisplayLon><RemarksEng/><RemarksHeb/><Remarks/></LocationMetaData><LocationData><TimeUnitData><Date>2017-12-06</Date><Element><ElementName>Maximum relative humidity</ElementName><ElementValue>70</ElementValue></Element><Element><ElementName>Maximum temperature</ElementName><ElementValue>11</ElementValue></Element><Element><ElementName>Minimum relative humidity</ElementName><ElementValue>70</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>5</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1100</ElementValue></Element><Element><ElementName>Wind direction and speed</ElementName><ElementValue>225-315/20-30</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-07</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>10</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>5</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1220</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-08</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>12</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>6</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1240</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-09</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>13</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>8</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1330</ElementValue></Element></TimeUnitData></LocationData></Location><Location><LocationMetaData><LocationId>201</LocationId><LocationNameEng>Qazrin</LocationNameEng><LocationNameHeb>קצרין</LocationNameHeb><DisplayLat>32.98</DisplayLat><DisplayLon>35.7</DisplayLon><RemarksEng/><RemarksHeb/><Remarks/></LocationMetaData><LocationData><TimeUnitData><Date>2017-12-06</Date><Element><ElementName>Maximum relative humidity</ElementName><ElementValue>55</ElementValue></Element><Element><ElementName>Maximum temperature</ElementName><ElementValue>15</ElementValue></Element><Element><ElementName>Minimum relative humidity</ElementName><ElementValue>55</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>7</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1100</ElementValue></Element><Element><ElementName>Wind direction and speed</ElementName><ElementValue>225-270/25-45</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-07</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>15</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>5</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1220</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-08</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>16</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>6</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1240</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-09</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>18</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>10</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1330</ElementValue></Element></TimeUnitData></LocationData></Location><Location><LocationMetaData><LocationId>402</LocationId><LocationNameEng>Tel Aviv - Yafo</LocationNameEng><LocationNameHeb>תל אביב - יפו</LocationNameHeb><DisplayLat>32.1</DisplayLat><DisplayLon>34.76</DisplayLon><RemarksEng/><RemarksHeb/><Remarks/></LocationMetaData><LocationData><TimeUnitData><Date>2017-12-06</Date><Element><ElementName>Maximum relative humidity</ElementName><ElementValue>65</ElementValue></Element><Element><ElementName>Maximum temperature</ElementName><ElementValue>18</ElementValue></Element><Element><ElementName>Minimum relative humidity</ElementName><ElementValue>65</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>12</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1110</ElementValue></Element><Element><ElementName>Wind direction and speed</ElementName><ElementValue>225-315/20-40</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-07</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>17</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>9</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1220</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-08</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>19</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>10</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1240</ElementValue></Element></TimeUnitData><TimeUnitData><Date>2017-12-09</Date><Element><ElementName>Maximum temperature</ElementName><ElementValue>21</ElementValue></Element><Element><ElementName>Minimum temperature</ElementName><ElementValue>11</ElementValue></Element><Element><ElementName>Weather code</ElementName><ElementValue>1330</ElementValue></Element></TimeUnitData></LocationData></Location></IsraelCitiesWeatherForecastMorning>
+<IsraelCitiesWeatherForecastMorning>
+  <Originator>
+    <Organization>Israel Meteorological Service</Organization>
+    <Generator>Global Distribution of Meteorological Information</Generator>
+  </Originator>
+  <Identification>
+    <Title>Weather Forecast for Israel Cities (Morning)</Title>
+    <IssueDateTime>2017-12-06 04:30</IssueDateTime>
+  </Identification>
+  <Location>
+    <LocationMetaData>
+      <LocationId>520</LocationId>
+      <LocationNameEng>Elat</LocationNameEng>
+      <LocationNameHeb>ן¿½ן¿½ן¿½ן¿½</LocationNameHeb>
+      <DisplayLat>29.55</DisplayLat>
+      <DisplayLon>34.9</DisplayLon>
+      <RemarksEng/>
+      <RemarksHeb/>
+      <Remarks/>
+    </LocationMetaData>
+    <LocationData>
+      <TimeUnitData>
+        <Date>2017-12-06</Date>
+        <Element>
+          <ElementName>Maximum relative humidity</ElementName>
+          <ElementValue>40</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>22</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum relative humidity</ElementName>
+          <ElementValue>40</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>11</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1220</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Wind direction and speed</ElementName>
+          <ElementValue>045-315/20-30</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-07</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>20</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>10</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1360</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-08</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>23</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>10</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1330</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-09</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>24</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>11</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1330</ElementValue>
+        </Element>
+      </TimeUnitData>
+    </LocationData>
+  </Location>
+  <Location>
+    <LocationMetaData>
+      <LocationId>114</LocationId>
+      <LocationNameEng>Ashdod</LocationNameEng>
+      <LocationNameHeb>ן¿½ן¿½ן¿½ן¿½ן¿½</LocationNameHeb>
+      <DisplayLat>31.83</DisplayLat>
+      <DisplayLon>34.64</DisplayLon>
+      <RemarksEng/>
+      <RemarksHeb/>
+      <Remarks/>
+    </LocationMetaData>
+    <LocationData>
+      <TimeUnitData>
+        <Date>2017-12-06</Date>
+        <Element>
+          <ElementName>Maximum relative humidity</ElementName>
+          <ElementValue>70</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>18</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum relative humidity</ElementName>
+          <ElementValue>70</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>14</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1110</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Wind direction and speed</ElementName>
+          <ElementValue>225-315/20-40</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-07</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>17</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>11</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1220</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-08</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>19</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>10</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1240</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-09</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>21</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>11</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1330</ElementValue>
+        </Element>
+      </TimeUnitData>
+    </LocationData>
+  </Location>
+  <Location>
+    <LocationMetaData>
+      <LocationId>513</LocationId>
+      <LocationNameEng>Beer Sheva</LocationNameEng>
+      <LocationNameHeb>ן¿½ן¿½ן¿½ ן¿½ן¿½ן¿½</LocationNameHeb>
+      <DisplayLat>31.25</DisplayLat>
+      <DisplayLon>34.8</DisplayLon>
+      <RemarksEng/>
+      <RemarksHeb/>
+      <Remarks/>
+    </LocationMetaData>
+    <LocationData>
+      <TimeUnitData>
+        <Date>2017-12-06</Date>
+        <Element>
+          <ElementName>Maximum relative humidity</ElementName>
+          <ElementValue>60</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>17</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum relative humidity</ElementName>
+          <ElementValue>60</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>8</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1110</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Wind direction and speed</ElementName>
+          <ElementValue>225-315/25-45</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-07</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>16</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>4</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1220</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-08</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>19</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>3</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1240</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-09</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>21</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>6</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1330</ElementValue>
+        </Element>
+      </TimeUnitData>
+    </LocationData>
+  </Location>
+  <Location>
+    <LocationMetaData>
+      <LocationId>203</LocationId>
+      <LocationNameEng>Bet Shean</LocationNameEng>
+      <LocationNameHeb>ן¿½ן¿½ן¿½ ן¿½ן¿½ן¿½</LocationNameHeb>
+      <DisplayLat>32.45</DisplayLat>
+      <DisplayLon>35.5</DisplayLon>
+      <RemarksEng/>
+      <RemarksHeb/>
+      <Remarks/>
+    </LocationMetaData>
+    <LocationData>
+      <TimeUnitData>
+        <Date>2017-12-06</Date>
+        <Element>
+          <ElementName>Maximum relative humidity</ElementName>
+          <ElementValue>55</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>18</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum relative humidity</ElementName>
+          <ElementValue>55</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>8</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1110</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Wind direction and speed</ElementName>
+          <ElementValue>225-315/20-35</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-07</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>18</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>5</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1220</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-08</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>19</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>4</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1240</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-09</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>21</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>8</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1330</ElementValue>
+        </Element>
+      </TimeUnitData>
+    </LocationData>
+  </Location>
+  <Location>
+    <LocationMetaData>
+      <LocationId>115</LocationId>
+      <LocationNameEng>Haifa</LocationNameEng>
+      <LocationNameHeb>ן¿½ן¿½ן¿½ן¿½</LocationNameHeb>
+      <DisplayLat>32.82</DisplayLat>
+      <DisplayLon>35</DisplayLon>
+      <RemarksEng/>
+      <RemarksHeb/>
+      <Remarks/>
+    </LocationMetaData>
+    <LocationData>
+      <TimeUnitData>
+        <Date>2017-12-06</Date>
+        <Element>
+          <ElementName>Maximum relative humidity</ElementName>
+          <ElementValue>70</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>17</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum relative humidity</ElementName>
+          <ElementValue>70</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>11</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1100</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Wind direction and speed</ElementName>
+          <ElementValue>225-315/25-40</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-07</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>15</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>9</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1220</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-08</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>17</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>9</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1240</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-09</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>19</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>13</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1330</ElementValue>
+        </Element>
+      </TimeUnitData>
+    </LocationData>
+  </Location>
+  <Location>
+    <LocationMetaData>
+      <LocationId>202</LocationId>
+      <LocationNameEng>Tiberias</LocationNameEng>
+      <LocationNameHeb>ן¿½ן¿½ן¿½ן¿½ן¿½</LocationNameHeb>
+      <DisplayLat>32.8</DisplayLat>
+      <DisplayLon>35.53</DisplayLon>
+      <RemarksEng/>
+      <RemarksHeb/>
+      <Remarks/>
+    </LocationMetaData>
+    <LocationData>
+      <TimeUnitData>
+        <Date>2017-12-06</Date>
+        <Element>
+          <ElementName>Maximum relative humidity</ElementName>
+          <ElementValue>55</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>19</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum relative humidity</ElementName>
+          <ElementValue>55</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>12</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1110</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Wind direction and speed</ElementName>
+          <ElementValue>225-270/20-40</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-07</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>18</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>9</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1220</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-08</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>18</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>9</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1240</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-09</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>20</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>9</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1330</ElementValue>
+        </Element>
+      </TimeUnitData>
+    </LocationData>
+  </Location>
+  <Location>
+    <LocationMetaData>
+      <LocationId>510</LocationId>
+      <LocationNameEng>Jerusalem</LocationNameEng>
+      <LocationNameHeb>ן¿½ן¿½ן¿½ן¿½ן¿½ן¿½ן¿½</LocationNameHeb>
+      <DisplayLat>31.78</DisplayLat>
+      <DisplayLon>35.22</DisplayLon>
+      <RemarksEng/>
+      <RemarksHeb/>
+      <Remarks/>
+    </LocationMetaData>
+    <LocationData>
+      <TimeUnitData>
+        <Date>2017-12-06</Date>
+        <Element>
+          <ElementName>Maximum relative humidity</ElementName>
+          <ElementValue>60</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>12</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum relative humidity</ElementName>
+          <ElementValue>60</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>8</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1110</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Wind direction and speed</ElementName>
+          <ElementValue>225-315/25-45</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-07</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>12</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>6</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1220</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-08</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>13</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>7</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1240</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-09</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>15</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>9</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1240</ElementValue>
+        </Element>
+      </TimeUnitData>
+    </LocationData>
+  </Location>
+  <Location>
+    <LocationMetaData>
+      <LocationId>204</LocationId>
+      <LocationNameEng>Lod</LocationNameEng>
+      <LocationNameHeb>ן¿½ן¿½ן¿½</LocationNameHeb>
+      <DisplayLat>31.85</DisplayLat>
+      <DisplayLon>34.9</DisplayLon>
+      <RemarksEng/>
+      <RemarksHeb/>
+      <Remarks/>
+    </LocationMetaData>
+    <LocationData>
+      <TimeUnitData>
+        <Date>2017-12-06</Date>
+        <Element>
+          <ElementName>Maximum relative humidity</ElementName>
+          <ElementValue>65</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>18</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum relative humidity</ElementName>
+          <ElementValue>65</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>10</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1110</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Wind direction and speed</ElementName>
+          <ElementValue>225-315/20-40</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-07</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>17</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>8</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1220</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-08</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>19</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>8</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1240</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-09</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>21</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>10</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1330</ElementValue>
+        </Element>
+      </TimeUnitData>
+    </LocationData>
+  </Location>
+  <Location>
+    <LocationMetaData>
+      <LocationId>106</LocationId>
+      <LocationNameEng>Mizpe Ramon</LocationNameEng>
+      <LocationNameHeb>ן¿½ן¿½ן¿½ן¿½ ן¿½ן¿½ן¿½ן¿½</LocationNameHeb>
+      <DisplayLat>30.61</DisplayLat>
+      <DisplayLon>34.8</DisplayLon>
+      <RemarksEng/>
+      <RemarksHeb/>
+      <Remarks/>
+    </LocationMetaData>
+    <LocationData>
+      <TimeUnitData>
+        <Date>2017-12-06</Date>
+        <Element>
+          <ElementName>Maximum relative humidity</ElementName>
+          <ElementValue>60</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>14</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum relative humidity</ElementName>
+          <ElementValue>60</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>6</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1220</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Wind direction and speed</ElementName>
+          <ElementValue>270-315/25-40</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-07</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>12</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>5</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1220</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-08</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>13</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>5</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1240</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-09</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>16</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>6</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1330</ElementValue>
+        </Element>
+      </TimeUnitData>
+    </LocationData>
+  </Location>
+  <Location>
+    <LocationMetaData>
+      <LocationId>207</LocationId>
+      <LocationNameEng>Nazareth</LocationNameEng>
+      <LocationNameHeb>ן¿½ן¿½ן¿½ן¿½</LocationNameHeb>
+      <DisplayLat>32.75</DisplayLat>
+      <DisplayLon>35.3</DisplayLon>
+      <RemarksEng/>
+      <RemarksHeb/>
+      <Remarks/>
+    </LocationMetaData>
+    <LocationData>
+      <TimeUnitData>
+        <Date>2017-12-06</Date>
+        <Element>
+          <ElementName>Maximum relative humidity</ElementName>
+          <ElementValue>75</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>15</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum relative humidity</ElementName>
+          <ElementValue>75</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>8</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1100</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Wind direction and speed</ElementName>
+          <ElementValue>225-270/20-40</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-07</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>14</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>7</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1220</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-08</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>15</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>7</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1240</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-09</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>17</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>11</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1330</ElementValue>
+        </Element>
+      </TimeUnitData>
+    </LocationData>
+  </Location>
+  <Location>
+    <LocationMetaData>
+      <LocationId>105</LocationId>
+      <LocationNameEng>En Gedi</LocationNameEng>
+      <LocationNameHeb>ן¿½ן¿½ן¿½ ן¿½ן¿½ן¿½</LocationNameHeb>
+      <DisplayLat>31.42</DisplayLat>
+      <DisplayLon>35.35</DisplayLon>
+      <RemarksEng/>
+      <RemarksHeb/>
+      <Remarks/>
+    </LocationMetaData>
+    <LocationData>
+      <TimeUnitData>
+        <Date>2017-12-06</Date>
+        <Element>
+          <ElementName>Maximum relative humidity</ElementName>
+          <ElementValue>50</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>22</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum relative humidity</ElementName>
+          <ElementValue>50</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>15</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1110</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Wind direction and speed</ElementName>
+          <ElementValue>225-270/15-30</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-07</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>21</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>13</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1220</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-08</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>22</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>14</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1240</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-09</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>24</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>16</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1330</ElementValue>
+        </Element>
+      </TimeUnitData>
+    </LocationData>
+  </Location>
+  <Location>
+    <LocationMetaData>
+      <LocationId>209</LocationId>
+      <LocationNameEng>Afula</LocationNameEng>
+      <LocationNameHeb>ן¿½ן¿½ן¿½ן¿½ן¿½</LocationNameHeb>
+      <DisplayLat>32.52</DisplayLat>
+      <DisplayLon>35.25</DisplayLon>
+      <RemarksEng/>
+      <RemarksHeb/>
+      <Remarks/>
+    </LocationMetaData>
+    <LocationData>
+      <TimeUnitData>
+        <Date>2017-12-06</Date>
+        <Element>
+          <ElementName>Maximum relative humidity</ElementName>
+          <ElementValue>70</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>18</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum relative humidity</ElementName>
+          <ElementValue>70</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>6</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1100</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Wind direction and speed</ElementName>
+          <ElementValue>225-315/20-40</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-07</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>17</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>3</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1220</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-08</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>18</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>2</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1240</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-09</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>20</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>6</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1330</ElementValue>
+        </Element>
+      </TimeUnitData>
+    </LocationData>
+  </Location>
+  <Location>
+    <LocationMetaData>
+      <LocationId>507</LocationId>
+      <LocationNameEng>Zefat</LocationNameEng>
+      <LocationNameHeb>ן¿½ן¿½ן¿½</LocationNameHeb>
+      <DisplayLat>33.05</DisplayLat>
+      <DisplayLon>35.44</DisplayLon>
+      <RemarksEng/>
+      <RemarksHeb/>
+      <Remarks/>
+    </LocationMetaData>
+    <LocationData>
+      <TimeUnitData>
+        <Date>2017-12-06</Date>
+        <Element>
+          <ElementName>Maximum relative humidity</ElementName>
+          <ElementValue>70</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>11</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum relative humidity</ElementName>
+          <ElementValue>70</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>5</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1100</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Wind direction and speed</ElementName>
+          <ElementValue>225-315/20-30</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-07</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>10</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>5</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1220</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-08</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>12</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>6</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1240</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-09</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>13</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>8</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1330</ElementValue>
+        </Element>
+      </TimeUnitData>
+    </LocationData>
+  </Location>
+  <Location>
+    <LocationMetaData>
+      <LocationId>201</LocationId>
+      <LocationNameEng>Qazrin</LocationNameEng>
+      <LocationNameHeb>ן¿½ן¿½ן¿½ן¿½ן¿½</LocationNameHeb>
+      <DisplayLat>32.98</DisplayLat>
+      <DisplayLon>35.7</DisplayLon>
+      <RemarksEng/>
+      <RemarksHeb/>
+      <Remarks/>
+    </LocationMetaData>
+    <LocationData>
+      <TimeUnitData>
+        <Date>2017-12-06</Date>
+        <Element>
+          <ElementName>Maximum relative humidity</ElementName>
+          <ElementValue>55</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>15</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum relative humidity</ElementName>
+          <ElementValue>55</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>7</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1100</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Wind direction and speed</ElementName>
+          <ElementValue>225-270/25-45</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-07</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>15</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>5</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1220</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-08</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>16</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>6</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1240</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-09</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>18</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>10</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1330</ElementValue>
+        </Element>
+      </TimeUnitData>
+    </LocationData>
+  </Location>
+  <Location>
+    <LocationMetaData>
+      <LocationId>402</LocationId>
+      <LocationNameEng>Tel Aviv - Yafo</LocationNameEng>
+      <LocationNameHeb>ן¿½ן¿½ ן¿½ן¿½ן¿½ן¿½ - ן¿½ן¿½ן¿½</LocationNameHeb>
+      <DisplayLat>32.1</DisplayLat>
+      <DisplayLon>34.76</DisplayLon>
+      <RemarksEng/>
+      <RemarksHeb/>
+      <Remarks/>
+    </LocationMetaData>
+    <LocationData>
+      <TimeUnitData>
+        <Date>2017-12-06</Date>
+        <Element>
+          <ElementName>Maximum relative humidity</ElementName>
+          <ElementValue>65</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>18</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum relative humidity</ElementName>
+          <ElementValue>65</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>12</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1110</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Wind direction and speed</ElementName>
+          <ElementValue>225-315/20-40</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-07</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>17</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>9</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1220</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-08</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>19</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>10</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1240</ElementValue>
+        </Element>
+      </TimeUnitData>
+      <TimeUnitData>
+        <Date>2017-12-09</Date>
+        <Element>
+          <ElementName>Maximum temperature</ElementName>
+          <ElementValue>21</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Minimum temperature</ElementName>
+          <ElementValue>11</ElementValue>
+        </Element>
+        <Element>
+          <ElementName>Weather code</ElementName>
+          <ElementValue>1330</ElementValue>
+        </Element>
+      </TimeUnitData>
+    </LocationData>
+  </Location>
+</IsraelCitiesWeatherForecastMorning>
