@@ -3,7 +3,9 @@
   "compilerOptions": {
     "outDir": "../out-tsc/app",
     "module": "es2015",
-    "types": []
+    "typeRoots": [
+      "src/typings.d.ts"
+    ]
   },
   "exclude": [
     "src/test.ts",

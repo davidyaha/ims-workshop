@@ -8,5 +8,8 @@ if (environment.production) {
   enableProdMode();
 }
 
+// Cesium polyfill
+Cesium.buildModuleUrl.setBaseUrl('/assets/cesium/');
+
 platformBrowserDynamic().bootstrapModule(AppModule)
   .catch(err => console.log(err));

@@ -202,6 +202,10 @@
     semver "^5.3.0"
     semver-intersect "^1.1.2"
 
+"@types/geodesy@^1.1.2":
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@types/geodesy/-/geodesy-1.2.0.tgz#1ed83d57962f99d8cf52393b47f48e70f3ba3e2f"
+
 "@types/jasmine@*", "@types/jasmine@~2.8.6":
   version "2.8.7"
   resolved "https://registry.yarnpkg.com/@types/jasmine/-/jasmine-2.8.7.tgz#3fe583928ae0a22cdd34cedf930eeffeda2602fd"
@@ -436,6 +440,23 @@ align-text@^0.1.1, align-text@^0.1.3:
 amdefine@>=0.0.4:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/amdefine/-/amdefine-1.0.1.tgz#4a5282ac164729e93619bcfd3ad151f817ce91f5"
+
+angular-cesium@^0.0.49:
+  version "0.0.49"
+  resolved "https://registry.yarnpkg.com/angular-cesium/-/angular-cesium-0.0.49.tgz#9eb27b2fcfbec81fd0f52c0eec10d234f9fd309a"
+  dependencies:
+    "@types/geodesy" "^1.1.2"
+    angular2parse "^1.0.5"
+    geodesy "^1.1.1"
+    json-string-mapper "^1.0.0"
+    lodash.get "^4.4.2"
+    primitive-primitives "0.0.6"
+  optionalDependencies:
+    heatmap.js "^2.0.5"
+
+angular2parse@^1.0.5:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/angular2parse/-/angular2parse-1.0.6.tgz#27acc6669a49117b64610e293f9cfd33c840bbfb"
 
 ansi-html@0.0.7:
   version "0.0.7"
@@ -1092,6 +1113,12 @@ center-align@^0.1.1:
   dependencies:
     align-text "^0.1.3"
     lazy-cache "^1.0.3"
+
+cesium@^1.45.0:
+  version "1.45.0"
+  resolved "https://registry.yarnpkg.com/cesium/-/cesium-1.45.0.tgz#3f967dcea57b97a42878ec775e57d076b3861e49"
+  dependencies:
+    requirejs "^2.3.2"
 
 chalk@^1.1.1, chalk@^1.1.3:
   version "1.1.3"
@@ -2466,6 +2493,10 @@ generate-object-property@^1.1.0:
   dependencies:
     is-property "^1.0.0"
 
+geodesy@^1.1.1:
+  version "1.1.3"
+  resolved "https://registry.yarnpkg.com/geodesy/-/geodesy-1.1.3.tgz#a0cbd5db5c0cf8ac045e749f754f61b450382de9"
+
 get-caller-file@^1.0.1:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/get-caller-file/-/get-caller-file-1.0.2.tgz#f702e63127e7e231c160a80c1554acb70d5047e5"
@@ -2736,6 +2767,10 @@ hawk@~6.0.2:
 he@1.1.x:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/he/-/he-1.1.1.tgz#93410fd21b009735151f8868c2f271f3427e23fd"
+
+heatmap.js@^2.0.5:
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/heatmap.js/-/heatmap.js-2.0.5.tgz#466d3b86513f5d49112a49d25700ab2730149153"
 
 hmac-drbg@^1.0.0:
   version "1.0.1"
@@ -3398,6 +3433,10 @@ json-schema@0.2.3:
   version "0.2.3"
   resolved "https://registry.yarnpkg.com/json-schema/-/json-schema-0.2.3.tgz#b480c892e59a2f05954ce727bd3f2a4e882f9e13"
 
+json-string-mapper@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/json-string-mapper/-/json-string-mapper-1.0.0.tgz#3b5bef182c412e937ee7ee320554c2f451b6a763"
+
 json-stringify-safe@~5.0.1:
   version "5.0.1"
   resolved "https://registry.yarnpkg.com/json-stringify-safe/-/json-stringify-safe-5.0.1.tgz#1296a2d58fd45f19a0f6ce01d65701e2c735b6eb"
@@ -3618,6 +3657,10 @@ lodash.assign@^4.2.0:
 lodash.clonedeep@^4.3.2, lodash.clonedeep@^4.5.0:
   version "4.5.0"
   resolved "https://registry.yarnpkg.com/lodash.clonedeep/-/lodash.clonedeep-4.5.0.tgz#e23f3f9c4f8fbdde872529c1071857a086e5ccef"
+
+lodash.get@^4.4.2:
+  version "4.4.2"
+  resolved "https://registry.yarnpkg.com/lodash.get/-/lodash.get-4.4.2.tgz#2d177f652fa31e939b4438d5341499dfa3825e99"
 
 lodash.mergewith@^4.6.0:
   version "4.6.1"
@@ -4616,6 +4659,10 @@ pretty-error@^2.0.2:
     renderkid "^2.0.1"
     utila "~0.4"
 
+primitive-primitives@0.0.6:
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/primitive-primitives/-/primitive-primitives-0.0.6.tgz#573deb4aa31d08a1d53a1d34ed8599f105b88d08"
+
 process-nextick-args@~1.0.6:
   version "1.0.7"
   resolved "https://registry.yarnpkg.com/process-nextick-args/-/process-nextick-args-1.0.7.tgz#150e20b756590ad3f91093f25a4f2ad8bff30ba3"
@@ -5013,6 +5060,10 @@ require-main-filename@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/require-main-filename/-/require-main-filename-1.0.1.tgz#97f717b69d48784f5f526a6c5aa8ffdda055a4d1"
 
+requirejs@^2.3.2:
+  version "2.3.5"
+  resolved "https://registry.yarnpkg.com/requirejs/-/requirejs-2.3.5.tgz#617b9acbbcb336540ef4914d790323a8d4b861b0"
+
 requires-port@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/requires-port/-/requires-port-1.0.0.tgz#925d2601d39ac485e091cf0da5c6e694dc3dcaff"
@@ -5073,6 +5124,10 @@ run-queue@^1.0.0, run-queue@^1.0.3:
   resolved "https://registry.yarnpkg.com/run-queue/-/run-queue-1.0.3.tgz#e848396f057d223f24386924618e25694161ec47"
   dependencies:
     aproba "^1.1.1"
+
+rxjs-compat@^6.1.0:
+  version "6.1.0"
+  resolved "https://registry.yarnpkg.com/rxjs-compat/-/rxjs-compat-6.1.0.tgz#935059623ee4c167728c9dd03ee6e4468cc5b583"
 
 rxjs@^6.0.0:
   version "6.1.0"
