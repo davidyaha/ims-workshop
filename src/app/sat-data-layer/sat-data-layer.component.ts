@@ -5,7 +5,8 @@ import { NetworkService } from '../common/network/network.service';
 import { scale } from 'chroma-js';
 import { AcNotification, AcEntity, ActionType } from 'angular-cesium';
 
-const colorScale = scale(['green', 'blue']).domain([-58, 30]).mode('hsl');
+const colorScale = scale(['purple', 'blue', 'lightblue', 'yellow', 'darkorange', 'darkred'])
+  .domain([-70, -40, -5, 5, 30, 55]);
 
 @Component({
   selector: 'app-sat-data-layer',
@@ -35,7 +36,7 @@ export class SatDataLayerComponent implements OnInit {
   }
 
   public getPointColor(degreeValue: number) {
-    const valueInScale = degreeValue;
-    return new Cesium.Color(...colorScale(valueInScale).rgba());
+    const color = colorScale(degreeValue).rgb().map(v => v / 255);
+    return new Cesium.Color(...color);
   }
 }
