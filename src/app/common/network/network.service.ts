@@ -1,6 +1,13 @@
+import { Injectable } from '@angular/core';
+
 const dataUrl = '/assets/data';
 
+@Injectable({
+  providedIn: 'root',
+})
 export class NetworkService {
+  constructor() {}
+
   getForecast() {
     return fetch(dataUrl + '/isr-cities.json').then(r => r.json());
   }
