@@ -1,0 +1,48 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<alert xmlns = "urn:oasis:names:tc:emergency:cap:1.2">
+<identifier>2.49.0.1.376.0.170209141553.1183</identifier>
+<sender>ims.gov.il</sender> 
+<sent>2017-02-09T14:15:53+02:00</sent>
+<status>Test</status> 
+<msgType>Alert</msgType> 
+<scope>Public</scope> 
+<info>
+<language>en</language> 
+<category>Met</category> 
+<event>RAIN-FLOOD</event> 
+<urgency>Immediate</urgency> 
+<severity>Severe</severity>
+<certainty>Likely</certainty>
+<effective> 2017-02-09T15:00:00+02:00</effective>  
+<onset> 2017-02-09T14:15:53+02:00</onset>  
+<expires>2017-02-09T19:00:00+02:00</expires> 
+<senderName>Israel Meteorological Service</senderName>
+<headline>RAIN-FLOOD warning</headline>
+<description> update: Severe Warning of FLOODING in North Coast and in Bet Shaan Valley on 09/02 from 15 until 19 LT.    Expected rain amount 150-175 mm. </description>
+<web>http://www.ims.gov.il/IMSENG/All_Tahazit/homepage.htm</web>
+ <parameter> 
+ <valueName>awareness_level</valueName> 
+ <value>3; orange; Severe</value> 
+</parameter> 
+<parameter>
+<valueName>awareness_type</valueName> 
+<value>13; rain-flood</value> 
+ </parameter>
+<area>
+   <areaDesc>North Coast</areaDesc>
+   <polygon>33.088,35.175 33.07,35.18 33.088,35.175 33.09,35.157 33.092,35.116 33.093,35.104 33.049,35.101 33.014,35.088 32.943,35.073 32.931,35.07 32.906,35.082 32.879,35.077 32.843,35.06 32.827,35.042 32.774,35.109 32.77,35.113 32.759,35.127 32.757,35.129 32.753,35.135 32.766,35.147 32.795,35.174 32.798,35.176 32.818,35.186 32.842,35.196 32.873,35.2 32.896,35.198 32.901,35.192 32.91,35.183 32.917,35.184 32.917,35.184 32.917,35.184 32.922,35.185 32.931,35.186 32.936,35.184 32.936,35.184 32.943,35.183 32.959,35.179 32.959,35.179 32.983,35.178 32.989,35.177 32.991,35.177 33.023,35.176 33.024,35.176 33.025,35.176 33.07,35.18 33.088,35.175</polygon>
+   <geocode>
+      <valueName>EMMA_ID</valueName> 
+      <value>IL003</value>
+    </geocode>
+</area>
+<area>
+   <areaDesc>Bet Shaan Valley</areaDesc>
+   <polygon>32.391,35.537 32.396,35.503 32.391,35.537 32.388,35.556 32.392,35.554 32.429,35.556 32.458,35.568 32.503,35.559 32.54,35.563 32.551,35.575 32.596,35.578 32.596,35.567 32.594,35.543 32.593,35.534 32.592,35.526 32.591,35.522 32.588,35.5 32.583,35.458 32.583,35.458 32.582,35.458 32.582,35.458 32.582,35.458 32.581,35.458 32.581,35.458 32.561,35.446 32.52,35.422 32.516,35.419 32.506,35.398 32.454,35.432 32.435,35.426 32.41,35.441 32.413,35.479 32.391,35.537</polygon>
+   <geocode>
+      <valueName>EMMA_ID</valueName> 
+      <value>IL008</value>
+    </geocode>
+</area>
+   </info>
+</alert>
