@@ -20,6 +20,7 @@
             "tsConfig": "src/tsconfig.app.json",
             "assets": [
               { "glob": "**/*", "input": "node_modules/cesium/Build/Cesium", "output": "assets/cesium" },
+              { "glob": "**/*", "input": "data", "output": "assets/data" },
               "src/favicon.ico",
               "src/assets"
             ],
