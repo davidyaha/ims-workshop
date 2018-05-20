@@ -1,3 +1,8 @@
-<p>
-  sat-data-layer works!
-</p>
+<ac-layer acFor="let satDatum of satData$" [context]="this">
+  <ac-point-primitive-desc props="{
+    position: satDatum.position,
+    color: getPointColor(satDatum.value),
+    outlineWidth: 0,
+    pixelSize: 2,
+  }">
+  </ac-point-primitive-desc>
