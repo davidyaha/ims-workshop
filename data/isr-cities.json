@@ -1,0 +1,1454 @@
+{
+  "IsraelCitiesWeatherForecastMorning": {
+    "Originator": {
+      "Organization": "Israel Meteorological Service",
+      "Generator": "Global Distribution of Meteorological Information"
+    },
+    "Identification": {
+      "Title": "Weather Forecast for Israel Cities (Morning)",
+      "IssueDateTime": "2017-12-06 04:30"
+    },
+    "Location": [
+      {
+        "LocationMetaData": {
+          "LocationId": "520",
+          "LocationNameEng": "Elat",
+          "LocationNameHeb": "����",
+          "DisplayLat": "29.55",
+          "DisplayLon": "34.9",
+          "RemarksEng": "",
+          "RemarksHeb": "",
+          "Remarks": ""
+        },
+        "LocationData": {
+          "TimeUnitData": [
+            {
+              "Date": "2017-12-06",
+              "Element": [
+                {
+                  "ElementName": "Maximum relative humidity",
+                  "ElementValue": "40"
+                },
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "22"
+                },
+                {
+                  "ElementName": "Minimum relative humidity",
+                  "ElementValue": "40"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "11"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1220"
+                },
+                {
+                  "ElementName": "Wind direction and speed",
+                  "ElementValue": "045-315/20-30"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-07",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "20"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "10"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1360"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-08",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "23"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "10"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1330"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-09",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "24"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "11"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1330"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "LocationMetaData": {
+          "LocationId": "114",
+          "LocationNameEng": "Ashdod",
+          "LocationNameHeb": "�����",
+          "DisplayLat": "31.83",
+          "DisplayLon": "34.64",
+          "RemarksEng": "",
+          "RemarksHeb": "",
+          "Remarks": ""
+        },
+        "LocationData": {
+          "TimeUnitData": [
+            {
+              "Date": "2017-12-06",
+              "Element": [
+                {
+                  "ElementName": "Maximum relative humidity",
+                  "ElementValue": "70"
+                },
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "18"
+                },
+                {
+                  "ElementName": "Minimum relative humidity",
+                  "ElementValue": "70"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "14"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1110"
+                },
+                {
+                  "ElementName": "Wind direction and speed",
+                  "ElementValue": "225-315/20-40"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-07",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "17"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "11"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1220"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-08",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "19"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "10"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1240"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-09",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "21"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "11"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1330"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "LocationMetaData": {
+          "LocationId": "513",
+          "LocationNameEng": "Beer Sheva",
+          "LocationNameHeb": "��� ���",
+          "DisplayLat": "31.25",
+          "DisplayLon": "34.8",
+          "RemarksEng": "",
+          "RemarksHeb": "",
+          "Remarks": ""
+        },
+        "LocationData": {
+          "TimeUnitData": [
+            {
+              "Date": "2017-12-06",
+              "Element": [
+                {
+                  "ElementName": "Maximum relative humidity",
+                  "ElementValue": "60"
+                },
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "17"
+                },
+                {
+                  "ElementName": "Minimum relative humidity",
+                  "ElementValue": "60"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "8"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1110"
+                },
+                {
+                  "ElementName": "Wind direction and speed",
+                  "ElementValue": "225-315/25-45"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-07",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "16"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "4"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1220"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-08",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "19"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "3"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1240"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-09",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "21"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "6"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1330"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "LocationMetaData": {
+          "LocationId": "203",
+          "LocationNameEng": "Bet Shean",
+          "LocationNameHeb": "��� ���",
+          "DisplayLat": "32.45",
+          "DisplayLon": "35.5",
+          "RemarksEng": "",
+          "RemarksHeb": "",
+          "Remarks": ""
+        },
+        "LocationData": {
+          "TimeUnitData": [
+            {
+              "Date": "2017-12-06",
+              "Element": [
+                {
+                  "ElementName": "Maximum relative humidity",
+                  "ElementValue": "55"
+                },
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "18"
+                },
+                {
+                  "ElementName": "Minimum relative humidity",
+                  "ElementValue": "55"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "8"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1110"
+                },
+                {
+                  "ElementName": "Wind direction and speed",
+                  "ElementValue": "225-315/20-35"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-07",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "18"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "5"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1220"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-08",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "19"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "4"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1240"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-09",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "21"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "8"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1330"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "LocationMetaData": {
+          "LocationId": "115",
+          "LocationNameEng": "Haifa",
+          "LocationNameHeb": "����",
+          "DisplayLat": "32.82",
+          "DisplayLon": "35",
+          "RemarksEng": "",
+          "RemarksHeb": "",
+          "Remarks": ""
+        },
+        "LocationData": {
+          "TimeUnitData": [
+            {
+              "Date": "2017-12-06",
+              "Element": [
+                {
+                  "ElementName": "Maximum relative humidity",
+                  "ElementValue": "70"
+                },
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "17"
+                },
+                {
+                  "ElementName": "Minimum relative humidity",
+                  "ElementValue": "70"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "11"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1100"
+                },
+                {
+                  "ElementName": "Wind direction and speed",
+                  "ElementValue": "225-315/25-40"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-07",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "15"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "9"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1220"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-08",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "17"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "9"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1240"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-09",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "19"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "13"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1330"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "LocationMetaData": {
+          "LocationId": "202",
+          "LocationNameEng": "Tiberias",
+          "LocationNameHeb": "�����",
+          "DisplayLat": "32.8",
+          "DisplayLon": "35.53",
+          "RemarksEng": "",
+          "RemarksHeb": "",
+          "Remarks": ""
+        },
+        "LocationData": {
+          "TimeUnitData": [
+            {
+              "Date": "2017-12-06",
+              "Element": [
+                {
+                  "ElementName": "Maximum relative humidity",
+                  "ElementValue": "55"
+                },
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "19"
+                },
+                {
+                  "ElementName": "Minimum relative humidity",
+                  "ElementValue": "55"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "12"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1110"
+                },
+                {
+                  "ElementName": "Wind direction and speed",
+                  "ElementValue": "225-270/20-40"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-07",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "18"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "9"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1220"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-08",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "18"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "9"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1240"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-09",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "20"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "9"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1330"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "LocationMetaData": {
+          "LocationId": "510",
+          "LocationNameEng": "Jerusalem",
+          "LocationNameHeb": "�������",
+          "DisplayLat": "31.78",
+          "DisplayLon": "35.22",
+          "RemarksEng": "",
+          "RemarksHeb": "",
+          "Remarks": ""
+        },
+        "LocationData": {
+          "TimeUnitData": [
+            {
+              "Date": "2017-12-06",
+              "Element": [
+                {
+                  "ElementName": "Maximum relative humidity",
+                  "ElementValue": "60"
+                },
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "12"
+                },
+                {
+                  "ElementName": "Minimum relative humidity",
+                  "ElementValue": "60"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "8"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1110"
+                },
+                {
+                  "ElementName": "Wind direction and speed",
+                  "ElementValue": "225-315/25-45"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-07",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "12"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "6"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1220"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-08",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "13"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "7"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1240"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-09",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "15"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "9"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1240"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "LocationMetaData": {
+          "LocationId": "204",
+          "LocationNameEng": "Lod",
+          "LocationNameHeb": "���",
+          "DisplayLat": "31.85",
+          "DisplayLon": "34.9",
+          "RemarksEng": "",
+          "RemarksHeb": "",
+          "Remarks": ""
+        },
+        "LocationData": {
+          "TimeUnitData": [
+            {
+              "Date": "2017-12-06",
+              "Element": [
+                {
+                  "ElementName": "Maximum relative humidity",
+                  "ElementValue": "65"
+                },
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "18"
+                },
+                {
+                  "ElementName": "Minimum relative humidity",
+                  "ElementValue": "65"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "10"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1110"
+                },
+                {
+                  "ElementName": "Wind direction and speed",
+                  "ElementValue": "225-315/20-40"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-07",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "17"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "8"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1220"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-08",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "19"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "8"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1240"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-09",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "21"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "10"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1330"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "LocationMetaData": {
+          "LocationId": "106",
+          "LocationNameEng": "Mizpe Ramon",
+          "LocationNameHeb": "���� ����",
+          "DisplayLat": "30.61",
+          "DisplayLon": "34.8",
+          "RemarksEng": "",
+          "RemarksHeb": "",
+          "Remarks": ""
+        },
+        "LocationData": {
+          "TimeUnitData": [
+            {
+              "Date": "2017-12-06",
+              "Element": [
+                {
+                  "ElementName": "Maximum relative humidity",
+                  "ElementValue": "60"
+                },
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "14"
+                },
+                {
+                  "ElementName": "Minimum relative humidity",
+                  "ElementValue": "60"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "6"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1220"
+                },
+                {
+                  "ElementName": "Wind direction and speed",
+                  "ElementValue": "270-315/25-40"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-07",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "12"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "5"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1220"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-08",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "13"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "5"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1240"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-09",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "16"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "6"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1330"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "LocationMetaData": {
+          "LocationId": "207",
+          "LocationNameEng": "Nazareth",
+          "LocationNameHeb": "����",
+          "DisplayLat": "32.75",
+          "DisplayLon": "35.3",
+          "RemarksEng": "",
+          "RemarksHeb": "",
+          "Remarks": ""
+        },
+        "LocationData": {
+          "TimeUnitData": [
+            {
+              "Date": "2017-12-06",
+              "Element": [
+                {
+                  "ElementName": "Maximum relative humidity",
+                  "ElementValue": "75"
+                },
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "15"
+                },
+                {
+                  "ElementName": "Minimum relative humidity",
+                  "ElementValue": "75"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "8"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1100"
+                },
+                {
+                  "ElementName": "Wind direction and speed",
+                  "ElementValue": "225-270/20-40"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-07",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "14"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "7"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1220"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-08",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "15"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "7"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1240"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-09",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "17"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "11"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1330"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "LocationMetaData": {
+          "LocationId": "105",
+          "LocationNameEng": "En Gedi",
+          "LocationNameHeb": "��� ���",
+          "DisplayLat": "31.42",
+          "DisplayLon": "35.35",
+          "RemarksEng": "",
+          "RemarksHeb": "",
+          "Remarks": ""
+        },
+        "LocationData": {
+          "TimeUnitData": [
+            {
+              "Date": "2017-12-06",
+              "Element": [
+                {
+                  "ElementName": "Maximum relative humidity",
+                  "ElementValue": "50"
+                },
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "22"
+                },
+                {
+                  "ElementName": "Minimum relative humidity",
+                  "ElementValue": "50"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "15"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1110"
+                },
+                {
+                  "ElementName": "Wind direction and speed",
+                  "ElementValue": "225-270/15-30"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-07",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "21"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "13"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1220"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-08",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "22"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "14"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1240"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-09",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "24"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "16"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1330"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "LocationMetaData": {
+          "LocationId": "209",
+          "LocationNameEng": "Afula",
+          "LocationNameHeb": "�����",
+          "DisplayLat": "32.52",
+          "DisplayLon": "35.25",
+          "RemarksEng": "",
+          "RemarksHeb": "",
+          "Remarks": ""
+        },
+        "LocationData": {
+          "TimeUnitData": [
+            {
+              "Date": "2017-12-06",
+              "Element": [
+                {
+                  "ElementName": "Maximum relative humidity",
+                  "ElementValue": "70"
+                },
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "18"
+                },
+                {
+                  "ElementName": "Minimum relative humidity",
+                  "ElementValue": "70"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "6"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1100"
+                },
+                {
+                  "ElementName": "Wind direction and speed",
+                  "ElementValue": "225-315/20-40"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-07",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "17"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "3"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1220"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-08",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "18"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "2"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1240"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-09",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "20"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "6"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1330"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "LocationMetaData": {
+          "LocationId": "507",
+          "LocationNameEng": "Zefat",
+          "LocationNameHeb": "���",
+          "DisplayLat": "33.05",
+          "DisplayLon": "35.44",
+          "RemarksEng": "",
+          "RemarksHeb": "",
+          "Remarks": ""
+        },
+        "LocationData": {
+          "TimeUnitData": [
+            {
+              "Date": "2017-12-06",
+              "Element": [
+                {
+                  "ElementName": "Maximum relative humidity",
+                  "ElementValue": "70"
+                },
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "11"
+                },
+                {
+                  "ElementName": "Minimum relative humidity",
+                  "ElementValue": "70"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "5"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1100"
+                },
+                {
+                  "ElementName": "Wind direction and speed",
+                  "ElementValue": "225-315/20-30"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-07",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "10"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "5"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1220"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-08",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "12"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "6"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1240"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-09",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "13"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "8"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1330"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "LocationMetaData": {
+          "LocationId": "201",
+          "LocationNameEng": "Qazrin",
+          "LocationNameHeb": "�����",
+          "DisplayLat": "32.98",
+          "DisplayLon": "35.7",
+          "RemarksEng": "",
+          "RemarksHeb": "",
+          "Remarks": ""
+        },
+        "LocationData": {
+          "TimeUnitData": [
+            {
+              "Date": "2017-12-06",
+              "Element": [
+                {
+                  "ElementName": "Maximum relative humidity",
+                  "ElementValue": "55"
+                },
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "15"
+                },
+                {
+                  "ElementName": "Minimum relative humidity",
+                  "ElementValue": "55"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "7"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1100"
+                },
+                {
+                  "ElementName": "Wind direction and speed",
+                  "ElementValue": "225-270/25-45"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-07",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "15"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "5"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1220"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-08",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "16"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "6"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1240"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-09",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "18"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "10"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1330"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "LocationMetaData": {
+          "LocationId": "402",
+          "LocationNameEng": "Tel Aviv - Yafo",
+          "LocationNameHeb": "�� ���� - ���",
+          "DisplayLat": "32.1",
+          "DisplayLon": "34.76",
+          "RemarksEng": "",
+          "RemarksHeb": "",
+          "Remarks": ""
+        },
+        "LocationData": {
+          "TimeUnitData": [
+            {
+              "Date": "2017-12-06",
+              "Element": [
+                {
+                  "ElementName": "Maximum relative humidity",
+                  "ElementValue": "65"
+                },
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "18"
+                },
+                {
+                  "ElementName": "Minimum relative humidity",
+                  "ElementValue": "65"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "12"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1110"
+                },
+                {
+                  "ElementName": "Wind direction and speed",
+                  "ElementValue": "225-315/20-40"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-07",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "17"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "9"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1220"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-08",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "19"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "10"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1240"
+                }
+              ]
+            },
+            {
+              "Date": "2017-12-09",
+              "Element": [
+                {
+                  "ElementName": "Maximum temperature",
+                  "ElementValue": "21"
+                },
+                {
+                  "ElementName": "Minimum temperature",
+                  "ElementValue": "11"
+                },
+                {
+                  "ElementName": "Weather code",
+                  "ElementValue": "1330"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
