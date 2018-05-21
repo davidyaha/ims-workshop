@@ -1,3 +1,14 @@
-<p>
-  forecast-layer works!
-</p>
+<ac-layer acFor="let city of cities$" [context]="this">
+  <!-- <ac-billboard-desc props="{
+    image: city.image,
+    position: city.position
+  }"></ac-billboard-desc> -->
+  <ac-label-desc props="{
+    position: getLabelPosition(city.position),
+    text: city.name
+  }"></ac-label-desc>
+  <ac-label-desc props="{
+    position: getLabelPosition(city.position, 2),
+    text: city.measurements[0].maxTemperture
+  }"></ac-label-desc>
+</ac-layer>
