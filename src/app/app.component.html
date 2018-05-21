@@ -1,8 +1,13 @@
 <!--The content below is only a placeholder and can be replaced.-->
 <div #cesiumContainer>
-  <ac-map>
+  <ac-map [flyTo]="homeLocation">
+    <ac-map-layer-provider
+      [provider]="arcGisMapServerProvider"
+      [options]="{url : 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer'}"
+    >
+    </ac-map-layer-provider>
+    <app-alerts-layer></app-alerts-layer>
     <app-forecast-layer></app-forecast-layer>
-    <!-- <app-sat-data-layer></app-sat-data-layer> -->
+    <app-sat-data-layer></app-sat-data-layer>
   </ac-map>
 </div>
-

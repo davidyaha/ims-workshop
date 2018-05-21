@@ -1,3 +1,11 @@
-<p>
-  alerts-layer works!
-</p>
+<ac-layer
+  acFor="let polygon of polygons$"
+  [context]="this"
+>
+  <ac-polygon-desc props="{
+      hierarchy: polygon.hierarchy,
+      material: getAlertColor(),
+      height: 0
+    }">
+  </ac-polygon-desc>
+</ac-layer>

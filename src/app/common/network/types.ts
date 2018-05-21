@@ -19,3 +19,13 @@ export interface City {
   position: Cartesian3;
   measurements: Measurment[];
 }
+
+export interface Area {
+  name: string;
+  hierarchy: Cartesian3[];
+}
+
+export interface Alert {
+  color: string;
+  areas: Area[];
+}

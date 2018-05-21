@@ -1,6 +1,6 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
-import { AngularCesiumModule } from 'angular-cesium';
+import { AngularCesiumModule, ViewerConfiguration } from 'angular-cesium';
 
 import { AppComponent } from './app.component';
 import { SatDataLayerComponent } from './sat-data-layer/sat-data-layer.component';
@@ -20,7 +20,7 @@ import { CommonModule } from './common/common.module';
     AngularCesiumModule.forRoot(),
     CommonModule,
   ],
-  providers: [],
+  providers: [ViewerConfiguration],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
