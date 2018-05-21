@@ -17,7 +17,7 @@ export class NetworkService {
     const satCsv = await fetch(dataUrl + '/sat-data.csv').then(r => r.text());
     return satCsv.split('\n').map(row => {
       const [lat, lon, value] = row.split(',');
-      const position = Cesium.Cartesian3.fromRadians(lon, lat);
+      const position = Cesium.Cartesian3.fromDegrees(lon, lat);
       return { position, value: Number(value) };
     });
   }
