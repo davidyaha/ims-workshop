@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { SatDatum } from './types';
+import { HttpClient } from '@angular/common/http';
 
 const dataUrl = '/assets/data';
 
@@ -7,22 +7,17 @@ const dataUrl = '/assets/data';
   providedIn: 'root',
 })
 export class NetworkService {
-  constructor() {}
+  constructor(private http: HttpClient) {}
 
   getForecast() {
-    return fetch(dataUrl + '/isr-cities.json').then(r => r.json());
+    return this.http.get(dataUrl + '/isr-cities.json');
   }
 
-  async getSatData() {
-    const satCsv = await fetch(dataUrl + '/sat-data.csv').then(r => r.text());
-    return satCsv.split('\n').map(row => {
-      const [lat, lon, value] = row.split(',');
-      const position = Cesium.Cartesian3.fromDegrees(lon, lat);
-      return { position, value: Number(value) };
-    });
+  getSatData() {
+    return this.http.get(dataUrl + '/sat-data.csv', { responseType: 'text' });
   }
 
-  getAlert(): Promise<SatDatum[]> {
-    return fetch(dataUrl + '/isr-170209-141553-1183.json').then(r => r.json());
+  getAlert() {
+    return this.http.get(dataUrl + '/isr-170209-141553-1183.json');
   }
 }

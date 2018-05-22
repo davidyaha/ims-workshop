@@ -1,10 +1,5 @@
 import { Cartesian3 } from 'angular-cesium';
 
-export interface SatDatum {
-  position: Cartesian3;
-  value: number;
-}
-
 export interface Measurment {
   date: Date;
   minHumidity: number;
@@ -18,14 +13,4 @@ export interface City {
   name: string;
   position: Cartesian3;
   measurements: Measurment[];
-}
-
-export interface Area {
-  name: string;
-  hierarchy: Cartesian3[];
-}
-
-export interface Alert {
-  color: string;
-  areas: Area[];
 }

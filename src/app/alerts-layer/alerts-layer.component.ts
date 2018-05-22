@@ -1,10 +1,12 @@
 import { get } from 'lodash';
-import { Subject } from 'rxjs';
+import { Observable } from 'rxjs';
 import { Component, OnInit } from '@angular/core';
 import { AcNotification, ActionType, AcEntity } from 'angular-cesium';
 import { NetworkService } from '../common/network/network.service';
-import { Alert, Area } from '../common/network/types';
 import { areAllEquivalent } from '@angular/compiler/src/output/output_ast';
+import { Alert } from './alert';
+import { map, flatMap } from 'rxjs/operators';
+import { UtilsService } from '../common/utils/utils.service';
 
 @Component({
   selector: 'app-alerts-layer',
@@ -12,38 +14,21 @@ import { areAllEquivalent } from '@angular/compiler/src/output/output_ast';
   styleUrls: ['./alerts-layer.component.css'],
 })
 export class AlertsLayerComponent implements OnInit {
-  polygons$: Subject<AcNotification> = new Subject();
-  alert$: Subject<Alert> = new Subject();
+  polygons$: Observable<AcNotification>;
+  alert$: Observable<Alert>;
 
-  constructor(private network: NetworkService) {}
+  constructor(private network: NetworkService, private utils: UtilsService) {}
 
   ngOnInit() {
-    this.network
-      .getAlert()
-      .then(this.transform)
-      .then(alert => this.alert$.next(alert));
-    this.alert$.subscribe(alert => {
-      alert.areas.forEach((area, i) =>
-        this.polygons$.next({
-          id: String(i),
-          actionType: ActionType.ADD_UPDATE,
-          entity: new AcEntity(area),
-        }),
-      );
-    });
-  }
+    this.alert$ = this.network.getAlert().pipe(map(Alert.lift));
 
-  transform(alert: any): Alert {
-    return {
-      color: Cesium.Color.ORANGE,
-      areas: get(alert, 'alert.info.area', []).map(
-        area =>
-          ({
-            name: area.areaDesc,
-            hierarchy: area.polygon.split(' ').map(coords => Cesium.Cartesian3.fromDegrees(...coords.split(',').reverse())),
-          } as Area),
+    this.polygons$ = this.alert$.pipe(
+      flatMap(alert =>
+        Observable.from(
+          alert.areas.map(this.utils.toNotificationsIterator),
+        ),
       ),
-    };
+    );
   }
 
   getAlertColor() {

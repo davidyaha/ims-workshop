@@ -1,53 +1,40 @@
 import { get } from 'lodash';
 import * as moment from 'moment';
-import { Subject } from 'rxjs';
+import { Observable } from 'rxjs';
 import { Component, OnInit } from '@angular/core';
 import { AcNotification, ActionType, AcEntity, Cartesian3 } from 'angular-cesium';
 
 import { NetworkService } from '../common/network/network.service';
 import { City } from '../common/network/types';
+import { map, flatMap, tap } from 'rxjs/operators';
+import { Forecast, DayForecast } from './forecast';
+import { UtilsService } from '../common/utils/utils.service';
 
+const FAR_LIMIT_IN_METERS = 1250000;
 @Component({
   selector: 'app-forecast-layer',
   templateUrl: './forecast-layer.component.html',
   styleUrls: ['./forecast-layer.component.css'],
 })
 export class ForecastLayerComponent implements OnInit {
-  cities$: Subject<AcNotification> = new Subject();
+  scaleByDistance = new Cesium.NearFarScalar(10000, 1.2, FAR_LIMIT_IN_METERS - 10000, 0);
+  distanceDisplayCondition = new Cesium.DistanceDisplayCondition(0, FAR_LIMIT_IN_METERS);
+  cities$: Observable<AcNotification>;
 
-  constructor(private network: NetworkService) {}
+  constructor(private network: NetworkService, private utils: UtilsService) {}
 
   ngOnInit() {
-    this.network
+    this.cities$ = this.network
       .getForecast()
-      .then(this.transform)
-      .then(cities => cities.forEach(city => this.cities$.next(city)));
+      .pipe(map(Forecast.lift))
+      .pipe(flatMap(
+        forecast => Observable.from(
+          forecast.cities.map(this.utils.toNotificationsIterator)
+        )
+      ));
   }
 
-  transform(forcast: any): AcNotification[] {
-    const locations = get(forcast, 'IsraelCitiesWeatherForecastMorning.Location', []);
-
-    return locations.map((l, i) => {
-      const entity: City = {
-        id: get(l, 'LocationMetaData.LocationId', i),
-        name: get(l, 'LocationMetaData.LocationNameEng'),
-        position: Cesium.Cartesian3.fromDegrees(
-          get(l, 'LocationMetaData.DisplayLon'),
-          get(l, 'LocationMetaData.DisplayLat'),
-        ),
-        measurements: get(l, 'LocationData.TimeUnitData', []).map(m => ({
-          date: moment(m.Date, 'YYYY-MM-DD'),
-          minHumidity: get(m.Element.find(e => e.ElementName === 'Minimum relative humidity'), 'ElementValue'),
-          maxHumidity: get(m.Element.find(e => e.ElementName === 'Maximum relative humidity'), 'ElementValue'),
-          minTemperture: get(m.Element.find(e => e.ElementName === 'Minimum temperature'), 'ElementValue'),
-          maxTemperture: get(m.Element.find(e => e.ElementName === 'Maximum temperature'), 'ElementValue'),
-        })),
-      };
-      return {
-        id: entity.id,
-        actionType: ActionType.ADD_UPDATE,
-        entity: new AcEntity(entity),
-      };
-    });
+  getForecastText(dayForecast: DayForecast) {
+    return `${dayForecast.maxTemperture}° - ${dayForecast.minTemperture}°`;
   }
 }

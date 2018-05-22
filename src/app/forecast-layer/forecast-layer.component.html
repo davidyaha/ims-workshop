@@ -3,22 +3,28 @@
     image: city.image,
     position: city.position
   }"></ac-billboard-desc> -->
-  <ac-html-desc props="{position: city.position, show: true}">
+  <!-- <ac-html-desc props="{position: city.position, show: true}">
     <ng-template let-html>
       <div>
         <h1>{{city.name}}</h1>
       </div>
     </ng-template>
-  </ac-html-desc>
+  </ac-html-desc> -->
   <ac-label-desc props="{
     position: city.position,
     showBackground: true,
-    text: city.name
+    text: city.name,
+    font: '24px sans-serif',
+    scaleByDistance: scaleByDistance,
+    distanceDisplayCondition: distanceDisplayCondition
   }"></ac-label-desc>
   <ac-label-desc props="{
     position: city.position,
-    text: city.measurements[0].maxTemperture,
+    text: getForecastText(city.dayForecast[0]) ,
     showBackground: true,
-    pixelOffset : [-20,40] | pixelOffset
+    pixelOffset : [0,30] | pixelOffset,
+    font: '18px sans-serif',
+    scaleByDistance: scaleByDistance,
+    distanceDisplayCondition: distanceDisplayCondition
   }"></ac-label-desc>
 </ac-layer>
