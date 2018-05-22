@@ -50,9 +50,4 @@ export class ForecastLayerComponent implements OnInit {
       };
     });
   }
-
-  getLabelPosition(origin: Cartesian3, line: number = 1): Cartesian3 {
-    const delta = new Cesium.Cartesian3(0.0, 0.0, 0.0);
-    return Cesium.Cartesian3.add(origin, delta, new Cesium.Cartesian3());
-  }
 }
