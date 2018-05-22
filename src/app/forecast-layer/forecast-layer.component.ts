@@ -5,7 +5,6 @@ import { Component, OnInit } from '@angular/core';
 import { AcNotification, ActionType, AcEntity, Cartesian3 } from 'angular-cesium';
 
 import { NetworkService } from '../common/network/network.service';
-import { City } from '../common/network/types';
 import { map, flatMap, tap } from 'rxjs/operators';
 import { Forecast, DayForecast } from './forecast';
 import { UtilsService } from '../common/utils/utils.service';
@@ -14,7 +13,6 @@ const FAR_LIMIT_IN_METERS = 1250000;
 @Component({
   selector: 'app-forecast-layer',
   templateUrl: './forecast-layer.component.html',
-  styleUrls: ['./forecast-layer.component.css'],
 })
 export class ForecastLayerComponent implements OnInit {
   scaleByDistance = new Cesium.NearFarScalar(10000, 1.2, FAR_LIMIT_IN_METERS - 10000, 0);

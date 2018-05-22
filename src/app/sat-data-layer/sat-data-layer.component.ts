@@ -13,7 +13,6 @@ const colorScale = scale(['purple', 'blue', 'lightblue', 'yellow', 'darkorange',
 @Component({
   selector: 'app-sat-data-layer',
   templateUrl: './sat-data-layer.component.html',
-  styleUrls: ['./sat-data-layer.component.css'],
 })
 export class SatDataLayerComponent implements OnInit {
   satData$: Observable<AcNotification>;

@@ -11,7 +11,6 @@ import { UtilsService } from '../common/utils/utils.service';
 @Component({
   selector: 'app-alerts-layer',
   templateUrl: './alerts-layer.component.html',
-  styleUrls: ['./alerts-layer.component.css'],
 })
 export class AlertsLayerComponent implements OnInit {
   polygons$: Observable<AcNotification>;
