@@ -15,6 +15,7 @@ export class Forecast extends AcEntity {
 export class CityForecast extends AcEntity {
   id: string;
   name: string;
+  image = '/assets/marker.png';
   position: Cartesian3;
   dayForecast: DayForecast[];
 

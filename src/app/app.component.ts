@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { MapLayerProviderOptions, ViewerConfiguration, SceneMode } from 'angular-cesium';
+import { StateService, ForecastStateType } from './common/state/state.service';
 
 @Component({
   selector: 'app-root',
@@ -10,7 +11,7 @@ export class AppComponent {
   arcGisMapServerProvider = MapLayerProviderOptions.ArcGisMapServer;
   homeLocation = { destination: Cesium.Cartesian3.fromDegrees(34.76, 32.1, 2000000) };
 
-  constructor(private viewerConf: ViewerConfiguration) {
+  constructor(private viewerConf: ViewerConfiguration, private state: StateService) {
     viewerConf.viewerOptions = {
       selectionIndicator: false,
       timeline: false,
@@ -24,5 +25,9 @@ export class AppComponent {
       baseLayerPicker: false,
       sceneMode: SceneMode.SCENE2D,
     };
+  }
+
+  toggleForcast() {
+    this.state.toggleForcast();
   }
 }

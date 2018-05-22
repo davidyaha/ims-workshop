@@ -1,8 +1,15 @@
-<ac-layer acFor="let city of cities$" [context]="this">
-  <!-- <ac-billboard-desc props="{
+<ac-layer
+  acFor="let city of cities$"
+  [context]="this"
+>
+  <ac-billboard-desc props="{
     image: city.image,
-    position: city.position
-  }"></ac-billboard-desc> -->
+    position: city.position,
+    scale: 0.08,
+    pixelOffset : [0,-40] | pixelOffset,
+    scaleByDistance: scaleByDistance,
+    distanceDisplayCondition: distanceDisplayCondition
+  }"></ac-billboard-desc>
   <!-- <ac-html-desc props="{position: city.position, show: true}">
     <ng-template let-html>
       <div>
@@ -18,13 +25,28 @@
     scaleByDistance: scaleByDistance,
     distanceDisplayCondition: distanceDisplayCondition
   }"></ac-label-desc>
-  <ac-label-desc props="{
-    position: city.position,
-    text: getForecastText(city.dayForecast[0]) ,
-    showBackground: true,
-    pixelOffset : [0,30] | pixelOffset,
-    font: '18px sans-serif',
-    scaleByDistance: scaleByDistance,
-    distanceDisplayCondition: distanceDisplayCondition
-  }"></ac-label-desc>
+  <ac-label-desc
+    *ngIf="showTemperture()"
+    props="{
+      position: city.position,
+      text: getTemperture(city.dayForecast[0]) ,
+      showBackground: true,
+      pixelOffset : [0,40] | pixelOffset,
+      font: '18px sans-serif',
+      scaleByDistance: scaleByDistance,
+      distanceDisplayCondition: distanceDisplayCondition
+    }"
+  ></ac-label-desc>
+  <ac-label-desc
+    *ngIf="showHumidity()"
+    props="{
+      position: city.position,
+      text: getHumidity(city.dayForecast[0]) ,
+      showBackground: true,
+      pixelOffset : [0,40] | pixelOffset,
+      font: '18px sans-serif',
+      scaleByDistance: scaleByDistance,
+      distanceDisplayCondition: distanceDisplayCondition
+    }"
+  ></ac-label-desc>
 </ac-layer>

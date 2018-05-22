@@ -1,4 +1,7 @@
-<div #cesiumContainer>
+<div class="main-container">
+  <div class="side-bar">
+    <button (click)="toggleForcast()">Toggle Forcast</button>
+  </div>
   <ac-map [flyTo]="homeLocation">
     <ac-map-layer-provider
       [provider]="arcGisMapServerProvider"
@@ -8,7 +11,7 @@
 
     <!-- Entity layers -->
     <app-alerts-layer></app-alerts-layer>
-    <app-forecast-layer></app-forecast-layer>
-    <app-sat-data-layer></app-sat-data-layer>
+    <!-- <app-forecast-layer></app-forecast-layer> -->
+    <!-- <app-sat-data-layer></app-sat-data-layer> -->
   </ac-map>
 </div>

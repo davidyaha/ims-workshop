@@ -2,12 +2,14 @@ import { get } from 'lodash';
 import { AcEntity, Cartesian3 } from 'angular-cesium';
 
 export class Alert extends AcEntity {
-  color: string;
+  color: any;
   areas: Area[];
 
   static lift(data: object) {
     const alert = new Alert();
-    alert.color = Cesium.Color.ORANGE;
+    alert.color = Cesium.Color.fromCssColorString(
+      get(data, 'alert.info.parameter[0].value', '').split('; ')[1] || 'red'
+    );
     alert.areas = get(data, 'alert.info.area', []).map(Area.lift);
     return alert;
   }
