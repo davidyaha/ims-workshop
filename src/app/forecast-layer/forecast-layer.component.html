@@ -26,9 +26,9 @@
     distanceDisplayCondition: distanceDisplayCondition
   }"></ac-label-desc>
   <ac-label-desc
-    *ngIf="showTemperture()"
     props="{
       position: city.position,
+      show: showTemperture(),
       text: getTemperture(city.dayForecast[0]) ,
       showBackground: true,
       pixelOffset : [0,40] | pixelOffset,
@@ -38,9 +38,9 @@
     }"
   ></ac-label-desc>
   <ac-label-desc
-    *ngIf="showHumidity()"
     props="{
       position: city.position,
+      show: showHumidity(),
       text: getHumidity(city.dayForecast[0]) ,
       showBackground: true,
       pixelOffset : [0,40] | pixelOffset,

@@ -1,16 +1,17 @@
 import { get } from 'lodash';
 import * as moment from 'moment';
-import { Observable, BehaviorSubject } from 'rxjs';
-import { Component, OnInit, Input } from '@angular/core';
-import { AcNotification, ActionType, AcEntity, Cartesian3 } from 'angular-cesium';
+import { Observable, BehaviorSubject, Subject } from 'rxjs';
+import { Component, OnInit, Input, ViewChild } from '@angular/core';
+import { AcNotification, ActionType, AcEntity, Cartesian3, AcLayerComponent } from 'angular-cesium';
 
 import { NetworkService } from '../common/network/network.service';
-import { map, flatMap, tap } from 'rxjs/operators';
+import { map, flatMap, tap, merge } from 'rxjs/operators';
 import { Forecast, DayForecast } from './forecast';
 import { UtilsService } from '../common/utils/utils.service';
 import { StateService, ForecastStateType } from '../common/state/state.service';
 
 const FAR_LIMIT_IN_METERS = 1250000;
+
 @Component({
   selector: 'app-forecast-layer',
   templateUrl: './forecast-layer.component.html',
@@ -21,17 +22,25 @@ export class ForecastLayerComponent implements OnInit {
   cities$: Observable<AcNotification>;
   forecastState = ForecastStateType.TEMPERTURE;
 
-  constructor(private network: NetworkService, private utils: UtilsService, private state: StateService) {}
+  @ViewChild(AcLayerComponent) layer: AcLayerComponent;
+
+  forecastCitiesData = [];
+
+  constructor(private network: NetworkService, private utils: UtilsService, private state: StateService) {
+  }
 
   ngOnInit() {
     this.cities$ = this.network
       .getForecast()
-      .pipe(map(Forecast.lift))
-      .pipe(flatMap(forecast => Observable.from(forecast.cities.map(this.utils.toNotificationsIterator))));
+      .pipe(
+        map(Forecast.lift),
+        flatMap(forecast => Observable.from(forecast && forecast.cities && forecast.cities.map(this.utils.toNotificationsIterator))),
+        tap(forcastNotification => this.forecastCitiesData.push(forcastNotification))
+      );
 
     this.state.forcastState$.subscribe(fs => {
-      console.log(fs);
       this.forecastState = fs;
+      this.layer.refreshAll(this.forecastCitiesData);
     });
   }
 
